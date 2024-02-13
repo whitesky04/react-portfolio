@@ -1,0 +1,54 @@
+<svg version="1.2" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 432 152" width="432" height="152">
+	<title>inhye-world-text</title>
+	<defs>
+		<filter x="-50%" y="-50%" width="200%" height="200%" id="f1" ><feDropShadow dx="-6.123233995736766e-16" dy="10" stdDeviation="0" flood-color="#000000" flood-opacity="1"/></filter>
+		<filter x="-50%" y="-50%" width="200%" height="200%" id="f2" ><feDropShadow dx="-6.123233995736766e-16" dy="10" stdDeviation="0" flood-color="#000000" flood-opacity="1"/></filter>
+		<filter x="-50%" y="-50%" width="200%" height="200%" id="f3" ><feDropShadow dx="-6.123233995736766e-16" dy="10" stdDeviation="0" flood-color="#000000" flood-opacity="1"/></filter>
+		<filter x="-50%" y="-50%" width="200%" height="200%" id="f4" ><feDropShadow dx="-6.123233995736766e-16" dy="10" stdDeviation="0" flood-color="#000000" flood-opacity="1"/></filter>
+		<filter x="-50%" y="-50%" width="200%" height="200%" id="f5" ><feDropShadow dx="-6.123233995736766e-16" dy="10" stdDeviation="0" flood-color="#000000" flood-opacity="1"/></filter>
+		<filter x="-50%" y="-50%" width="200%" height="200%" id="f6" ><feDropShadow dx="-6.123233995736766e-16" dy="10" stdDeviation="0" flood-color="#000000" flood-opacity="1"/></filter>
+		<filter x="-50%" y="-50%" width="200%" height="200%" id="f7" ><feDropShadow dx="-6.123233995736766e-16" dy="10" stdDeviation="0" flood-color="#000000" flood-opacity="1"/></filter>
+		<filter x="-50%" y="-50%" width="200%" height="200%" id="f8" ><feDropShadow dx="-6.123233995736766e-16" dy="10" stdDeviation="0" flood-color="#000000" flood-opacity="1"/></filter>
+		<filter x="-50%" y="-50%" width="200%" height="200%" id="f9" ><feDropShadow dx="-6.123233995736766e-16" dy="10" stdDeviation="0" flood-color="#000000" flood-opacity="1"/></filter>
+		<filter x="-50%" y="-50%" width="200%" height="200%" id="f10" ><feDropShadow dx="-6.123233995736766e-16" dy="10" stdDeviation="0" flood-color="#000000" flood-opacity="1"/></filter>
+		<filter x="-50%" y="-50%" width="200%" height="200%" id="f11" ><feDropShadow dx="-6.123233995736766e-16" dy="10" stdDeviation="0" flood-color="#000000" flood-opacity="1"/></filter>
+		<filter x="-50%" y="-50%" width="200%" height="200%" id="f12" ><feDropShadow dx="-6.123233995736766e-16" dy="10" stdDeviation="0" flood-color="#000000" flood-opacity="1"/></filter>
+		<filter x="-50%" y="-50%" width="200%" height="200%" id="f13" ><feDropShadow dx="-6.123233995736766e-16" dy="10" stdDeviation="0" flood-color="#000000" flood-opacity="1"/></filter>
+		<filter x="-50%" y="-50%" width="200%" height="200%" id="f14" ><feDropShadow dx="-6.123233995736766e-16" dy="10" stdDeviation="0" flood-color="#000000" flood-opacity="1"/></filter>
+	</defs>
+	<style>
+		tspan { white-space:pre } 
+		.s0 { filter: url(#f1);fill: #00c800;stroke: #000000;paint-order:stroke fill markers;stroke-linejoin: round;stroke-width: 4 } 
+		.s1 { filter: url(#f2);fill: #f83838;stroke: #000000;paint-order:stroke fill markers;stroke-linejoin: round;stroke-width: 4 } 
+		.s2 { filter: url(#f3);fill: #00c800;stroke: #000000;paint-order:stroke fill markers;stroke-linejoin: round;stroke-width: 4 } 
+		.s3 { filter: url(#f4);fill: #00d8f8;stroke: #000000;paint-order:stroke fill markers;stroke-linejoin: round;stroke-width: 4 } 
+		.s4 { filter: url(#f5);fill: #f8c828;stroke: #000000;paint-order:stroke fill markers;stroke-linejoin: round;stroke-width: 4 } 
+		.s5 { filter: url(#f6);fill: #f83838;stroke: #000000;paint-order:stroke fill markers;stroke-linejoin: round;stroke-width: 4 } 
+		.s6 { filter: url(#f7);fill: #00d8f8;stroke: #000000;paint-order:stroke fill markers;stroke-linejoin: round;stroke-width: 4 } 
+		.s7 { filter: url(#f8);fill: #f8c828;stroke: #000000;paint-order:stroke fill markers;stroke-linejoin: round;stroke-width: 4 } 
+		.s8 { filter: url(#f9);fill: #00c800;stroke: #000000;paint-order:stroke fill markers;stroke-linejoin: round;stroke-width: 4 } 
+		.s9 { filter: url(#f10);fill: #00d8f8;stroke: #000000;paint-order:stroke fill markers;stroke-linejoin: round;stroke-width: 4 } 
+		.s10 { filter: url(#f11);fill: #00c800;stroke: #000000;paint-order:stroke fill markers;stroke-linejoin: round;stroke-width: 4 } 
+		.s11 { filter: url(#f12);fill: #f8c828;stroke: #000000;paint-order:stroke fill markers;stroke-linejoin: round;stroke-width: 4 } 
+		.s12 { filter: url(#f13);fill: #00d8f8;stroke: #000000;paint-order:stroke fill markers;stroke-linejoin: round;stroke-width: 4 } 
+		.s13 { filter: url(#f14);fill: #f83838;stroke: #000000;paint-order:stroke fill markers;stroke-linejoin: round;stroke-width: 4 } 
+		.s14 { fill: #f83838 } 
+		.s15 { fill: #00d8f8;stroke: #000000;paint-order:stroke fill markers;stroke-linejoin: round;stroke-width: 4 } 
+	</style>
+	<path id="D" fill-rule="evenodd" class="s0" d="m330.4 90.3l-26.5 3.2v50.2h29.9l14.9-12.2-3.1-28.9-15.2-12.3zm-10 19.2l9.8 4.4v7.9l-9.8 3.4v-15.7z"/>
+	<path id="L" class="s1" d="m278 92.2l-20.1-2.3 2.1 53.3 40-4.8-2-16.6-22.1 2.7 2.1-32.3z"/>
+	<path id="R" fill-rule="evenodd" class="s2" d="m239.3 90.6l-29.9 2.3 4.2 51h16.6l-2.5-13.9 16.4 14 15.6-6.8-13.3-11.7 7.5-8.4-1.3-16.8-13.3-9.7zm-11.6 14.9l8.4 4.5-4.4 6.3-4.4-0.6 0.4-10.2z"/>
+	<path id="O" fill-rule="evenodd" class="s3" d="m193.1 91.1l-19.6-0.7-16.9 10.7-3.4 22.6 22.7 20 28.4-7.4 4.5-25.7-15.7-19.5zm-15.4 18.1l9 2 0.4 8-6.7 2.5-6.3-4.3 3.6-8.2z"/>
+	<path id="W" class="s4" d="m153.7 95.2l-18-3.9-10.9 26.5-9-13.6-11.8 11.9-3.9-12.7-3.3-13.1-17.1 1.5 13.1 52 12.2-0.3 7.4-14.6 4.9 14.5h13.4l23-48.2z"/>
+	<path id="I " class="s5" d="m400 5.6l1.9 52.7 22.9-2.6-10.8-50.9-14 0.8z"/>
+	<path id="O" fill-rule="evenodd" class="s6" d="m384.1 5.1l-19.6-0.7-16.9 10.7-3.4 22.6 22.7 20 28.4-7.4 4.5-25.7-15.7-19.5zm-15.4 18.1l9 2 0.4 8-6.7 2.5-6.3-4.3 3.6-8.2z"/>
+	<path id="H" class="s7" d="m295.1 7.6l5.7 49.9h15.7l-0.4-14.9 10.1-1.9 0.1 16.2 16.7 0.6-2.9-51.7-14.8-0.7-0.6 19.4-10.6 1.6-0.9-22-18.1 3.5z"/>
+	<path id="C" class="s8" d="m271.3 4.3l-16.7 9.1-6.5 16.6 4.2 15.5 14.1 12.3 28.7-2.5-4.9-20.1-14.6 7.7-10-6.8 0.5-12.3 11.4-5.2 12.9 6 0.8-19-19.9-1.3z"/>
+	<path id="E" class="s9" d="m178.1 4.2l-3.9 19 3.9 34.4h39.6l-6.1-14.3-16.6-0.2-1.2-3.8 13.6-1.3 0.8-11.4-15.4-1.2 0.2-3.6 17.4-2.7 2.9-14.9h-35.2z"/>
+	<path id="Y" class="s10" d="m134.4 6.1l-11.8 10.4 17.9 17.1v23l28.3 1.3-12.8-26.4 17.2-15-15.7-11.9-11.2 14.1-11.9-12.6z"/>
+	<path id="H" class="s11" d="m80.1 7.6l5.7 49.9h15.7l-0.4-14.9 10.1-1.9 0.1 16.2 16.7 0.6-2.9-51.7-14.8-0.7-0.6 19.4-10.6 1.6-0.9-22-18.1 3.5z"/>
+	<path id="N" class="s12" d="m30.1 57.9l17 0.7 3.1-17.2 10.7 16.3 13.8 0.8 3.5-50.5-16.7-2.6-0.8 16.7-10.2-16.7h-10.8l-9.6 52.5z"/>
+	<path id="I" class="s13" d="m4 4.6l1.9 52.7 22.9-2.6-10.8-50.9-14 0.8z"/>
+	<path id="Shape 1" class="s14" d="m392 98"/>
+	<path id="TM" class="s15" d="m354 91v6.3l6.1 0.3-1.3 11.3h8.5l-1.6-11.3 6 1v-7.2l-17.7-0.4zm18.9 16l6.8 1.3 4-8.6 3.4 4.5 4.4-4 1.5 4.3 1.2 4.3 6.4-0.5-4.9-17.3-4.5 0.1-2.9 4.9-1.7-4.8h-5.1l-8.6 15.8z"/>
+</svg>

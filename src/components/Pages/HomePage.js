@@ -1,12 +1,15 @@
 import React from 'react';
+import Header from '../Header/Header.js';
+import './HomePage.scss';
 
 const HomePage = () => {
     return(
         <div className="container" style={{height: `100%`}}>
-            <h1 className="titlePage">Home</h1>
+            <Header />
+            {/* <h1 className="titlePage">Home</h1>
             <div>
-               
-            </div>
+               this is home
+            </div> */}
         </div>
     );
 }

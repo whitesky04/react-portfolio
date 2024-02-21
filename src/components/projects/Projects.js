@@ -6,6 +6,7 @@ const Projects = () => {
         <section className="projectsWrapper">
             <div className="projectContainer">  
                 <h1 className="titlePage">This is project page</h1>  
+                <p></p>
             </div>
         </section>
     );

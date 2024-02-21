@@ -6,6 +6,7 @@ const ProjectPage = () => {
     return(
         <div className="container">
             <Projects />
+            <h1>hello</h1>
         </div>
     );
 }

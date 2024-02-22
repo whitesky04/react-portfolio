@@ -1,10 +1,8 @@
 import React from 'react';
-import Header from '../Header/Header.js';
 
-const Blog = () => {
+const Blogs = () => {
     return(
         <div>
-            <Header />
             <div className="BlogWrapper">
                 <h3>Blog title</h3>
                 <p>this will replace blog text.</p>
@@ -13,4 +11,4 @@ const Blog = () => {
     );
 }
 
-export default Blog;
+export default Blogs;
